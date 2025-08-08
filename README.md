@@ -12,7 +12,7 @@
 
 - 🖥️ [MonitorControl](https://github.com/MonitorControl/MonitorControl): macOS app to control your external display brightness and volume.
 - ⭐ More than 29k stars and 1.3M+ download!
-- 🛠️ Always ready to contribute on open source projects that peak my interest.
+- 🛠️ Always ready to contribute on open source projects that pique my interest.
 
 #### Contact me
 
